@@ -1,17 +1,24 @@
-## Hi there 👋
-![morac's github stats](https://github-readme-stats.vercel.app/api?username=momorac)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=000000&text=Naeun%20Kim&reversal=false&textBg=false&desc=Developer&descSize=25&descAlignY=67&animation=fadeIn)
 
-<!--
-**momorac/momorac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=GitHub&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  <img src="https://img.shields.io/static/v1?message=Notion&logo=Notion&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="notion logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+- **Computer Science / Design Innovation**
+- **Sejong University**
+- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=eldpdl017)](https://solved.ac/eldpdl017)
+----
+
+###
+
+
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
